@@ -1,0 +1,3 @@
+[submodule "coreMQTT-Agent"]
+	path = coreMQTT-Agent
+	url = https://github.com/FreeRTOS/coreMQTT-Agent.git
