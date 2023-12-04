@@ -8,6 +8,3 @@ dependencies:
   idf:
     version: ">=4.3"
     require: public
-  esp-freertos-coremqtt:
-    version: ">=0.0.1"
-    require: public

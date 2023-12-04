@@ -26,7 +26,7 @@ set(COREMQTT_AGENT_SRCS
 )
 
 set(COREMQTT_AGENT_REQUIRES
-    coreMQTT
+    esp-freertos-coremqtt
 )
 
 idf_component_register(
